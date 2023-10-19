@@ -1,0 +1,19 @@
+h1{
+    font: 100;
+    color: brown;
+    text-align: center;
+
+}
+#Col{
+    color: aqua;
+}
+.color{
+    color: blue;
+}
+.color1{
+    color: blueviolet;
+}
+.tablealign{
+    margin: 100px;
+    padding: 150px;
+}
